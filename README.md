@@ -6,5 +6,5 @@ Thanks @TrippyNinja12 for some CSS positioning help!
 #### TODO:
 * ~~Restyle~~
 * Figure out how to use the Return/Enter key to add item to list
-* Put online
+* ~~Put online~~
 * ~~Make it awesome~~
