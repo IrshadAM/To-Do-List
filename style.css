@@ -70,6 +70,7 @@ input[type="text"]{
 .strikeout{
   text-decoration: line-through;
   color: #414141;
+  border-color: #414141;
 }
 
 #remove-instruct{
