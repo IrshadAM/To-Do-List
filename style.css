@@ -59,6 +59,11 @@ input[type="text"]{
   margin-bottom: 8px;
 }
 
+.strikeout{
+  text-decoration: line-through;
+  color: #414141;
+}
+
 #remove-instruct{
   font-family: 'Open Sans', sans-serif;
   color: #606060;
@@ -75,7 +80,7 @@ input[type="text"]{
 }
 
 #footer{
-  position: absolute;
+  position: fixed;
   bottom: 0;
   width: 100%;
   height: 40px;
