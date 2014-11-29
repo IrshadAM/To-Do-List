@@ -1,15 +1,10 @@
 # To Do List
 
-A little personal project using code from Codecademy that will be made cooler..
-Thank you jQuery.
+A little personal project using code from <a href="http://www.codecademy.com">Codecademy</a> made more awesome!
+Thanks @TrippyNinja12 for some CSS positioning help!
 
 #### TODO:
-* Restyle everything.
-  * Maybe Bootstrap?
-  * Google style type stuff.
-  * Blue borders?
-  * Fonts.
-  * Centre or other good position.
-* Figure out how to use the Return/Enter key to add item to list.
-* Put on site, somewhere..
-* Make it awesome.
+* ~~Restyle~~
+* Figure out how to use the Return/Enter key to add item to list
+* Put online
+* ~~Make it awesome~~
